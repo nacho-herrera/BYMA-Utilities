@@ -1,0 +1,15 @@
+# Ignore folders
+__pycache__/
+dadi/
+descargas/
+
+# Ignore environment variables
+.env
+
+# Ignore jupyter notebooks
+*.ipynb
+
+# Ignore misc files
+api_endpoints.md
+api endpoints.txt
+
