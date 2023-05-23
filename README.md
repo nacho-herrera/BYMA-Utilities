@@ -21,6 +21,13 @@ Libreria para consumir las APIs privadas del Sistema de Liquidacion y Compensaci
 - GARA: Consultas y descarga de reportes
 - Ejemplos de uso de las librerias.
 
+#### Uso 
+Crear un archivo `.env` con el usuario, password y nro de participante en BYMA
+```
+PARTICIPANTE = "" 
+USERNAME = ""
+PASSWORD = ""
+```
 
 ---
 
